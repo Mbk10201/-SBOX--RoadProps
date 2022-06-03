@@ -15,7 +15,7 @@
 						[
 							{
 								from = "frame.vmat"
-								to = "materials/vehicles/shared/aluminium01.vmat"
+								to = "materials/shared/metals/aluminium01.vmat"
 							},
 							{
 								from = "type.vmat"
