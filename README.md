@@ -1,11 +1,10 @@
 # -SBOX--RoadProps
 
-European road signs (France, Belgium, etc...)
-
 -Current in pack: 
   - Source Files :D
   - Metal pack shared
   - Warning signs
+  - European road signs (France, Belgium, etc...)
 
 -Arrives soon :
   - Prohibitions signs
