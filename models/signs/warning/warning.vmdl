@@ -1,0 +1,300 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "frame.vmat"
+								to = "materials/vehicles/shared/aluminium01.vmat"
+							},
+							{
+								from = "type.vmat"
+								to = "models/signs/warning/textures/default.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+					{
+						_class = "MaterialGroup"
+						name = "animaux_sauvages"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/animaux_sauvages.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "cassis"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/cassis.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "chausse_glissante"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/chausse_glissante.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "chemin_ferre"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/chemin_ferre.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "chutte_pierres"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/chutte_pierres.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "construction"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/construction.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "danger"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/danger.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "dispositif_surelever"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/dispositif_surelever.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "ecole"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/ecole.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "feu"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/feu.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "inclinaison"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/inclinaison.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "intersection"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/intersection.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "passage_niveau"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/passage_niveau.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "passage_pieton"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/passage_pieton.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "pente"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/pente.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "ralentissement"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/ralentissement.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "retre_double"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/retre_double.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "retre_droite"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/retre_droite.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "retre_gauche"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/retre_gauche.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "rue_etroite"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/rue_etroite.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "succession_gauche"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/succession_gauche.vmat"
+							},
+						]
+					},
+					{
+						_class = "MaterialGroup"
+						name = "trou_dangereux"
+						remaps = 
+						[
+							{
+								from = "models/signs/warning/textures/default.vmat"
+								to = "models/signs/warning/textures/trou_dangereux.vmat"
+							},
+						]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/signs/warning/warning.smd"
+						import_translation = [ 0.0, 0.0, 3.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 7.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = "root"
+						import_filter = 
+						{
+							exclude_by_default = false
+							exception_list = [  ]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}
